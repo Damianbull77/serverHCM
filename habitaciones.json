@@ -1,0 +1,45 @@
+[
+    {
+      "descripcion": "Habitación doble",
+      "valor": "$100 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },
+    {
+      "descripcion": "Habitación triple",
+      "valor": "$150 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },
+    {
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },
+    {
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },
+    {
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },
+    {
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },{
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },{
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    },{
+      "descripcion": "Suite de lujo",
+      "valor": "$250 por noche",
+      "urlImg": "http://localhost:8082/habitacion.jpg"
+    }
+  ]
+  
